@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Projeto feito para desenvolver uma base (Layout) para futuros projetos
 
 ## Getting Started
 
